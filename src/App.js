@@ -19,8 +19,7 @@ function App() {
           <h4>
         <p>It is important to note that a typical "PPL"(Push-Pull-Leg) split involves being 3-4 days on and 1 day off to adequately recover between cycles. This program will be a hybrid of PPL + conditioning to cut down the time of being at the gym and creating more efficient RPE(rate of perceived exertion) training. We will do 3 days on and 1 day off and then 2 and 1 to account for the second posterior leg day to focus on growing lower body. More volume, more growth!</p></h4>
         </p>
-        <div className="Nav">
-      <h1><code>8 WEEK MEAL PLAN - FOCUS ON HITTING IT 80%</code></h1>
+      <h2><code>8 WEEK MEAL PLAN - FOCUS ON HITTING IT 80%</code></h2>
         <img src={require('./meal1.png')} alt="" />
         <p><b>Meal 1</b> is high fiber and high carb to keep your energy levels high for work. In between your meals, you should be consuming fats like half an avocado or 15-20 almonds to prevent a 'crash' in energy levels. Fat creates a 'buffer' that prevents the significant feeling of hunger. It won't make you feel full but it should make you feel okay. Keep a baggy of almonds in your pocket. Easier than walking around with an avocado.</p>
         <img src={require('./meal2.png')} alt="" />
@@ -33,7 +32,6 @@ function App() {
       <b><p>It's important to note:</p></b>
       <p>that you will need to include creatine in all your preworkout regimen. And glutamine at the end of the day to facilitate healing and recovery. Most supplements on the market are gimmicks and you get the most out of a multi-vitamin and staying regular. For the most part it's best to stay away from stimulants and to stick to creatine and glutamine for any additional recovery aid. Do not worry too much about being exact, the point of a plan is to get close enough to know where you need work and to be mindful and conscious of what you're consuming to make space for our physical goals. If you do not feel like eating, you can make your chia protein as it fulfils your protein intake and also accounts for extra fiber. For snacks, high protein yogurt and a piece of fruit would suffice between meals. Any other questions? Shoot me a message.</p>
 <p>-You can use any sauce / spices. Load up on the mutivitamin and B-vitamins-</p>
-    </div>
     <h4>Day 1: Push Day</h4>
     <img src={require('./push.png')} alt="" />
     <h4>Day 2: Pull 1 - Back focused Day</h4>
