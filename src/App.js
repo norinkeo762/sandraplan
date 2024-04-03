@@ -9,6 +9,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div className="app-container">
+      <div className="content">
       <header className="App-header">
       <img src={require('./unnecessaryapp_logo1.png')} className="App-logo" alt="logo" style={{'borderRadius':'170px'}}/>
         <p>
@@ -55,7 +57,7 @@ function App() {
         </a>
       </header>
       <main></main>
-    </div>
+    </div></div></div>
   );
 }
 
