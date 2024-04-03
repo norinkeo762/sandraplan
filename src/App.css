@@ -41,3 +41,19 @@
     transform: rotate(360deg);
   }
 }
+.app-container {
+  /* Ensure that the container stretches to the edges of the viewport */
+  width: 100%;
+  height: 100%;
+  /* Ensure that the container's content does not exceed the viewport width */
+  overflow-x: hidden; /* Hide horizontal overflow */
+}
+
+/* Inside your component styles or inline styles */
+.content {
+  /* Ensure that your content stretches to the edges of the container */
+  width: 100%;
+  height: 100%;
+  /* Add padding or margins as necessary to prevent content from being too close to the edges */
+  padding-left: 10px; /* Adjust as needed */
+}
